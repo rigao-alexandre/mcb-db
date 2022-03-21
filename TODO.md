@@ -19,10 +19,6 @@ https://github.com/localForage/localForage
 https://github.com/marcuswestin/store.js
 https://thedutchlab.com/blog/using-axios-interceptors-for-refreshing-your-api-token
 
-https://www.typescriptlang.org/docs/handbook/react.html
-https://create-react-app.dev/docs/adding-typescript/
-https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
-
 // const localSWRConfig = {
 // revalidateIfStale: false,
 // revalidateOnFocus: false,
@@ -32,3 +28,8 @@ https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
 // refreshWhenHidden: false,
 // refreshInterval: 0,
 // };
+
+https://www.typescriptlang.org/docs/handbook/react.html
+https://create-react-app.dev/docs/adding-typescript/
+https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
+https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/
