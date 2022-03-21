@@ -4,6 +4,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import Button from '@mui/material/Button';
+
 function App() {
    return (
       <div className='App'>
@@ -15,6 +17,8 @@ function App() {
             <a className='App-link' href='https://reactjs.org' target='_blank' rel='noopener noreferrer'>
                Learn React
             </a>
+            <br />
+            <Button variant='contained'>Olá Mundo</Button>
          </header>
       </div>
    );

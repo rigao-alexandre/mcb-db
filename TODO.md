@@ -33,3 +33,6 @@ https://www.typescriptlang.org/docs/handbook/react.html
 https://create-react-app.dev/docs/adding-typescript/
 https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
 https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/
+
+https://mui.com/pt/getting-started/installation/
+https://mui.com/pt/components/typography/#general
